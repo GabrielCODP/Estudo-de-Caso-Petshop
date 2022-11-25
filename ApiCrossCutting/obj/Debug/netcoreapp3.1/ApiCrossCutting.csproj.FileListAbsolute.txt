@@ -1,0 +1,51 @@
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiCrossCutting.deps.json
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiCrossCutting.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiCrossCutting.pdb
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiData.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiDomain.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiServices.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiData.pdb
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiDomain.pdb
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiServices.pdb
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.csproj.AssemblyReference.cache
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.AssemblyInfoInputs.cache
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.AssemblyInfo.cs
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.csproj.CoreCompileInputs.cache
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.csproj.CopyComplete
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.pdb
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.csproj.AssemblyReference.cache
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.AssemblyInfoInputs.cache
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.AssemblyInfo.cs
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.csproj.CoreCompileInputs.cache
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiCrossCutting.deps.json
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiCrossCutting.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiCrossCutting.pdb
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiData.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiDomain.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiServices.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiData.pdb
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiDomain.pdb
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiServices.pdb
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.csproj.CopyComplete
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.pdb
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiCrossCutting.deps.json
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiCrossCutting.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiCrossCutting.pdb
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiData.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiDomain.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiServices.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiData.pdb
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiDomain.pdb
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiCrossCutting\bin\Debug\netcoreapp3.1\ApiServices.pdb
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.csproj.AssemblyReference.cache
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.AssemblyInfoInputs.cache
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.AssemblyInfo.cs
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.csproj.CoreCompileInputs.cache
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.csproj.CopyComplete
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiCrossCutting\obj\Debug\netcoreapp3.1\ApiCrossCutting.pdb

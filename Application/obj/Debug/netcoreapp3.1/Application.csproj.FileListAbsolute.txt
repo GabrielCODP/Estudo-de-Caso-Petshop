@@ -1,0 +1,234 @@
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cache
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Application.exe
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Application.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Application.pdb
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiCrossCutting.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiData.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiDomain.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiServices.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiCrossCutting.pdb
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiDomain.pdb
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiServices.pdb
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiData.pdb
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.Manifest.cache
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cache
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.pdb
+E:\Gabriel\CodigosVisual\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cache
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Application.exe
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Application.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Application.pdb
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiCrossCutting.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiData.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiDomain.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiServices.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiCrossCutting.pdb
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiDomain.pdb
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiServices.pdb
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiData.pdb
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.Manifest.cache
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cache
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.pdb
+E:\Gabriel\CodigoTeste\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Application.exe
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Application.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Application.pdb
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiCrossCutting.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiData.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiDomain.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiServices.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiCrossCutting.pdb
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiDomain.pdb
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiServices.pdb
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\bin\Debug\netcoreapp3.1\ApiData.pdb
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cache
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.Manifest.cache
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cache
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.pdb
+E:\Gabriel\Codigo Trabalho\Api_PetShop\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache

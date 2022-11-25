@@ -1,0 +1,30 @@
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiDomain\bin\Debug\netcoreapp3.1\ApiDomain.deps.json
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiDomain\bin\Debug\netcoreapp3.1\ApiDomain.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiDomain\bin\Debug\netcoreapp3.1\ApiDomain.pdb
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.csproj.AssemblyReference.cache
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.AssemblyInfoInputs.cache
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.AssemblyInfo.cs
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.csproj.CoreCompileInputs.cache
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.dll
+E:\Gabriel\CodigosVisual\Api_PetShop\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.pdb
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiDomain\bin\Debug\netcoreapp3.1\ApiDomain.deps.json
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiDomain\bin\Debug\netcoreapp3.1\ApiDomain.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiDomain\bin\Debug\netcoreapp3.1\ApiDomain.pdb
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.csproj.AssemblyReference.cache
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.AssemblyInfoInputs.cache
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.AssemblyInfo.cs
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.csproj.CoreCompileInputs.cache
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.dll
+E:\Gabriel\CodigoTeste\Api_PetShop\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.pdb
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiDomain\bin\Debug\netcoreapp3.1\ApiDomain.deps.json
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiDomain\bin\Debug\netcoreapp3.1\ApiDomain.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiDomain\bin\Debug\netcoreapp3.1\ApiDomain.pdb
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.csproj.AssemblyReference.cache
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.AssemblyInfoInputs.cache
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.AssemblyInfo.cs
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.csproj.CoreCompileInputs.cache
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.dll
+E:\Gabriel\Codigo Trabalho\Api_PetShop\ApiDomain\obj\Debug\netcoreapp3.1\ApiDomain.pdb
